@@ -17,3 +17,15 @@ The second notebook `hyperparams_and_approach2.ipynb` includes the base BERT iml
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 or the badge at the top of the notebook to view in Google Colab.
+
+### Report
+The project report was uploaded for reference and it is available in file: `report.pdf`.
+
+### Authors
+Arthur Cauchetier (ac920@ic.ac.uk)
+
+Tien-Chun Wu (tw2220@ic.ac.uk)
+
+Marek Topolewski (mt820@ic.ac.uk)
+
+<i>Department of Computing, Imperial College London, London SW7 2AZ, UK</i>
