@@ -1,7 +1,9 @@
 # NLP (ICL) Coursework: Humour Detection
+________________
 
 The original notebook is replicated twice due to the differences in data preprocessing and training routines.
 
+________________
 ### 1
 
 The first notebook `approach1_pretrained_roberta.ipynb` contains the final RoBERTa model for <i>Approach 1</i> along with tests for different features and head architectures. Use the following link 
@@ -18,9 +20,11 @@ The second notebook `hyperparams_and_approach2.ipynb` includes the base BERT iml
 </a>
 or the badge at the top of the notebook to view in Google Colab.
 
+________________
 ### Report
 The project report was uploaded for reference and it is available in file: `report.pdf`.
 
+________________
 ### Authors
 Arthur Cauchetier (ac920@ic.ac.uk)
 
